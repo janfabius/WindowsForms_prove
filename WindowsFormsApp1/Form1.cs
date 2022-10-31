@@ -149,6 +149,10 @@ namespace WindowsFormsApp1
 
 
 
+
+
+
+
         // Encrypts plaintext using AES 128bit key and a Chain Block Cipher and returns a base64 encoded string
         public string Encrypt(String plainText, String key)
         {
